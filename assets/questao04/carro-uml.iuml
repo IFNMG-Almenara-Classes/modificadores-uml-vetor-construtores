@@ -1,0 +1,24 @@
+@startuml Carro
+skinparam classAttributeIconSize 0
+class Carro {
+ -String : modelo
+ -String : cor
+ -String : placa
+ -int : numeroDePortas
+ -Motor : motor
+
+ +ligar() : void
+ +desligar() : void
+ +acelerar() : void
+}
+
+skinparam classAttributeIconSize 0
+class Motor {
+ -int : quantidadeCilindros;
+ -boolean : ligado;
+
+ +ligar() : void
+ +desligar() : void
+ +acelerar() : void
+}
+@enduml
