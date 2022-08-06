@@ -14,8 +14,8 @@ class Carro {
 
 skinparam classAttributeIconSize 0
 class Motor {
- -int : quantidadeCilindros;
- -boolean : ligado;
+ -int : quantidadeCilindros
+ -boolean : ligado
 
  +ligar() : void
  +desligar() : void

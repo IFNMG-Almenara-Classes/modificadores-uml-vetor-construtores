@@ -1,0 +1,17 @@
+@startuml Funcionarios
+skinparam classAttributeIconSize 0
+class Funcionario {
+ - nome: String
+ - cpf: String
+ - int: quantidadeDeFilhos
+ - double: salarioBase
+}
+
+class FolhaDePagamento {
+ -Funcionario : funcionarios
+ -int : quantidadeDeFuncionarios
+
++ adicionarFuncionario(funcionario: Funcionario): viod
++ calcularFolhaDePagamento(): void
+}
+@enduml
