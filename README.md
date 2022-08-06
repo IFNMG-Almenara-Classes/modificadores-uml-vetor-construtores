@@ -39,7 +39,7 @@
     * O Motor também será responsável por imprimir mensagens de "Acelerando" quando o método acelerar for acionado.
     * Os métodos ligar, desligar e acelerar do Carro deverão acionar os respectivos métodos no seu atributo da classe Motor.
 
-    ![Diagrama UML Carro](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/IFNMG-Almenara-Classes/modificadores-de-acesso/main/assets/carro-uml.iuml?token=GHSAT0AAAAAABR4VPIHMR5YFLK4NUYETC5KYXOZAXQ)
+    ![Diagrama UML Carro](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/IFNMG-Almenara-Classes/modificadores-uml-vetor-construtores/main/assets/carro-uml.iuml?token=GHSAT0AAAAAABR4VPIGCP5YCBMGVUU7YS6YYXOZ6PA)
 
 
 1. Você foi contratado para participar do desenvolvimento de um software de RH (Recursos Humanos). Inicialmente você deverá construir a classe para representar os funcionários e uma classe que será responsável pelo processamento das folhas de pagamento. Observe o diagrama UML.
@@ -48,7 +48,7 @@
     * Construa um menu que permita a edição de um funcionário dado o seu CPF.
     * Construa um menu que permita a geração de uma folha de pagamento, pra isso, todos os funcionários cadastrados deverão ser considerados.
 
-   ![Diagrama UML Funcionario](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/IFNMG-Almenara-Classes/modificadores-de-acesso/main/assets/funcinarios.iuml?token=GHSAT0AAAAAABR4VPIGPHMSNUX7OLEHUVHKYXOZHYQ)
+   ![Diagrama UML Funcionario](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/IFNMG-Almenara-Classes/modificadores-uml-vetor-construtores/main/assets/funcinarios.iuml?token=GHSAT0AAAAAABR4VPIHOHNSJYSONOQLCMTAYXOZ6PA)  
 
 
 1. Paulo é dono de uma em loja de venda de materiais para construção. Paulo precisa de um programa para gerenciar os clientes e vendas. Uma das prioridades do Paulo é manter o cadastro de clientes. Você foi contrato para construir o programa.
