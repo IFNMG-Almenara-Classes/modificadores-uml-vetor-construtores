@@ -9,7 +9,7 @@
 
 # Atividades
 
-## Para todas as questões, sempre que possível aplique o encapsulamento.
+## Para todas as questões, sempre que possível, aplique o encapsulamento.
 
    <!-- <img  align="right" src="https://user-images.githubusercontent.com/5587998/183262129-c4924406-9e0b-4cc9-9f02-dd01c3caee78.png" height="100" /> -->
 
