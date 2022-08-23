@@ -8,7 +8,7 @@ class Funcionario {
 }
 
 class FolhaDePagamento {
- -Funcionario : funcionarios
+ -Funcionario[] : funcionarios
  -int : quantidadeDeFuncionarios
 
 + adicionarFuncionario(funcionario: Funcionario): viod
