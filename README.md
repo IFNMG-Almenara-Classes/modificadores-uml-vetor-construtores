@@ -1,4 +1,4 @@
-# Atividade: Orientação a Objetos - Lista 04 X 3
+# Atividade: Orientação a Objetos - Encapsulamento e Construtores L1
 ## Orientações
 
 1. Cada uma das questões deve ser entregue dentro de um pacote. Exemplo: "questao01","questao02",...,"questaoXX".
@@ -6,6 +6,10 @@
 1. Dentro de cada pacote deve ter uma classe chamada Principal que deverá ter o método main.
 
 1. Para todas as atividades, utilize a classe Principal para criar instâncias de objetos das classes criadas e realizar testes.
+
+1. Defina construtores para cada classe criada.
+
+1. Faça uso do principio do encapsulamento.
 
 # Atividades
 
